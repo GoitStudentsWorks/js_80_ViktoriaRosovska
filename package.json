@@ -2,10 +2,10 @@
   "name": "Bookshelf-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://viktoriarosovska.github.io/Bookshelf-team-project/",
+  "homepage": "https://GoitStudentsWorks.github.io/js_80_ViktoriaRosovska/",
   "scripts": {
     "start": "parcel src/*.html --no-cache",
-    "build": "parcel build src/*.html --public-url /Bookshelf-team-project/ --no-cache"
+    "build": "parcel build src/*.html --public-url /js_80_ViktoriaRosovska/"
   },
   "repository": {
     "type": "git",
